@@ -1,0 +1,1 @@
+{"uuid":"f0e0bf76-9b3e-4102-ac58-6fe9c105cfeb","name":"qaautomation.november2021.AppTest.setUp","description":"","start":1638588886823,"stop":1638588945258,"children":["5fbcf256-7ad9-40cd-88dc-525d89cb3ad9"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1638588886825,"stop":1638588945257}]}
